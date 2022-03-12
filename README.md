@@ -17,4 +17,7 @@ Not : If ve Else kullanılmayacak... <br/>
 • Minimum ödenecek tutar 20 TL'dir. 20 TL altında ki ücretlerde yine 20 TL alınacaktır. <br/>
 • Taksimetre açılış ücreti 10 TL'dir. <br/>
 <br/>
-
+[Dairenin Alanını Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/DaireninAlaniniHesaplama.java)<br/>
+• Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı bulan programı yazınız.<br/>
+• 𝜋 sayısını = 3.14 alınız.<br/>
+<br/>
