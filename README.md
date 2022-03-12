@@ -7,3 +7,9 @@ Not : If ve Else kullanılmayacak... <br/>
 [KDV Tutarı Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/KdvTutariHesaplama.java)<br/>
 • Java ile kullanıcıdan alınan para değerinin KDV'li fiyatını ve KDV tutarını hesaplayıp ekrana bastıran programı yazın. <br/>
 • Eğer girilen tutar 0 ve 1000 TL arasında ise KDV oranı %18 , tutar 1000 TL'den büyük ise KDV oranını %8 olarak KDV tutarı hesaplayan programı yazınız.<br/>
+<br/>
+[Üçgen Alanı Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/UcgenAlaniHesaplama.java)<br/>
+• Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin alanını hesaplayan programı yazınız. <br/>
+
+
+
