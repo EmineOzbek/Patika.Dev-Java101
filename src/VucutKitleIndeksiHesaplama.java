@@ -11,11 +11,16 @@ public class VucutKitleIndeksiHesaplama {
 		System.out.print("Lütfen kilonuzu girin(kg): ");
 		double kilo = input.nextDouble();
 
-		double index = kilo / (boy * boy);
-		System.out.println("Vucut kitle indeksiniz: " + index);
+		double indeks = kilo / (boy * boy);
+		System.out.println("Vucut kitle indeksiniz: " + indeks);
+
+		if (indeks > 18.4 && indeks < 25)
+			System.out.println("Vucut kitle indeksiniz normal seviyede.");
+		else if (indeks < 18.5)
+			System.out.println("Vucut kitle indeksiniz normalin altında.");
+		else if (indeks > 24)
+			System.out.println("Vucut kitle indeksiniz normalin üzerinde.");
 
 		input.close();
-
 	}
-
 }
