@@ -1,4 +1,14 @@
 # Patika.Dev-Java101
+
+## Ödevler 
+1- [Not Ortalaması Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/NotOrtalamasiHesaplama.java)<br/>
+2- [KDV Tutarı Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/KdvTutariHesaplama.java)<br/>
+3- [Üçgen Alanı Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/UcgenAlaniHesaplama.java)<br/>
+4- [Taksimetre Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/TaksimetreHesaplama.java)<br/>
+5- [Dairenin Alanını Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/DaireninAlaniniHesaplama.java)<br/>
+6- [Vücut Kitle İndeksi Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/VucutKitleIndeksiHesaplama.java) <br/>
+
+## İsterler
 [Not Ortalaması Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/NotOrtalamasiHesaplama.java)<br/>
 • Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin sınav puanlarını kullanıcıdan alan ve ortalamalarını hesaplayıp ekrana bastırılan programı yazın. <br/>
 • Aynı program içerisinde koşullu ifadeler kullanılarak, eğer kullanıcının ortalaması 60'dan büyük ise ekrana "Sınıfı Geçti" , küçük ise "Sınıfta Kaldı" yazsın. <br/>
@@ -20,4 +30,8 @@ Not : If ve Else kullanılmayacak... <br/>
 [Dairenin Alanını Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/DaireninAlaniniHesaplama.java)<br/>
 • Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı bulan programı yazınız.<br/>
 • 𝜋 sayısını = 3.14 alınız.<br/>
+<br/>
+[Vücut Kitle İndeksi Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/VucutKitleIndeksiHesaplama.java) <br/>
+• Kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. Kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdırın. <br/>
+• Ek olarak vücut kitle indeksinin normal değerde olup olmadığı ekrana yazdırılmıştır. <br/>
 <br/>
