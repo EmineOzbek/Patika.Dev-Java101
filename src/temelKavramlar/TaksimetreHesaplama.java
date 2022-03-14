@@ -1,3 +1,4 @@
+package temelKavramlar;
 import java.util.Scanner;
 
 public class TaksimetreHesaplama {
