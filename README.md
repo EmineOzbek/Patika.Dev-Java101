@@ -7,6 +7,7 @@
 4- [Taksimetre Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/TaksimetreHesaplama.java)<br/>
 5- [Dairenin Alanını Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/DaireninAlaniniHesaplama.java)<br/>
 6- [Vücut Kitle İndeksi Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/VucutKitleIndeksiHesaplama.java) <br/>
+7- [Manav Kasa Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/ManavKasaHesaplama.java) <br/>
 
 ## İsterler
 [Not Ortalaması Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/NotOrtalamasiHesaplama.java)<br/>
@@ -35,3 +36,12 @@ Not : If ve Else kullanılmayacak... <br/>
 • Kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. Kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdırın. <br/>
 • Ek olarak vücut kitle indeksinin normal değerde olup olmadığı ekrana yazdırılmıştır. <br/>
 <br/>
+[Manav Kasa Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/ManavKasaHesaplama.java) <br/>
+• Kullanıcıların manavdan almış oldukları ürünlerin kilogram değerlerine göre toplam tutarını ekrana yazdıran programı yazın. <br/>
+• Meyveler ve KG Fiyatları 
+> Armut : 2,14 TL <br/> 
+  Elma : 3,67 TL <br/>
+  Domates : 1,11 TL <br/>
+  Muz: 0,95 TL <br/>
+  Patlıcan : 5,00 TL <br/>
+
