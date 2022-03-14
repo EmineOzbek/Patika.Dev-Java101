@@ -1,6 +1,7 @@
 # Patika.Dev-Java101
 
 ## Ödevler 
+### Temel Kavramlar
 1- [Not Ortalaması Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/NotOrtalamasiHesaplama.java)<br/>
 2- [KDV Tutarı Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/KdvTutariHesaplama.java)<br/>
 3- [Üçgen Alanı Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/UcgenAlaniHesaplama.java)<br/>
@@ -8,8 +9,11 @@
 5- [Dairenin Alanını Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/DaireninAlaniniHesaplama.java)<br/>
 6- [Vücut Kitle İndeksi Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/VucutKitleIndeksiHesaplama.java) <br/>
 7- [Manav Kasa Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/ManavKasaHesaplama.java) <br/>
+### Koşullu İfadeler
+1- [Hesap Makinesi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/HesapMakinesi.java) <br/>
 
 ## İsterler
+### Temel Kavramlar
 [Not Ortalaması Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/NotOrtalamasiHesaplama.java)<br/>
 • Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin sınav puanlarını kullanıcıdan alan ve ortalamalarını hesaplayıp ekrana bastırılan programı yazın. <br/>
 • Aynı program içerisinde koşullu ifadeler kullanılarak, eğer kullanıcının ortalaması 60'dan büyük ise ekrana "Sınıfı Geçti" , küçük ise "Sınıfta Kaldı" yazsın. <br/>
@@ -44,4 +48,7 @@ Not : If ve Else kullanılmayacak... <br/>
   Domates : 1,11 TL <br/>
   Muz: 0,95 TL <br/>
   Patlıcan : 5,00 TL <br/>
-
+  
+### Koşullu İfadeler
+[Hesap Makinesi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/HesapMakinesi.java) <br/>
+• Switch-case kullanarak hesap makinesi yapınız. <br/>
