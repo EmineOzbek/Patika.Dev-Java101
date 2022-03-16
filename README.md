@@ -14,6 +14,8 @@
 2- [Kullanıcı Girişi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/KullaniciGirisi.java) <br/>
 3- [Sınıf Geçme Durumu](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/SinifGecmeDurumu.java) <br/>
 4- [Hava Durumuna Göre Etkinlik Önerme](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/HavaSicakliginaGoreEtkinlikOnerme.java) <br/>
+5-  [Sayıları Büyükten Küçüğe Sıralama]( https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/SayilariSiralama.java) <br/>
+
 
 ## İsterler
 ### Temel Kavramlar
@@ -69,5 +71,7 @@ Not : If ve Else kullanılmayacak... <br/>
 • Sıcaklık 15 ve 25 arasında ise "Piknik" etkinliğini öner. <br/>
 • Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini öner. <br/>
  <br/>
- 
+ [Sayıları Büyükten Küçüğe Sıralama]( https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/SayilariSiralama.java) <br/>
+• Girilen 3 sayıyı "küçükten büyüğe" sıralayan programı yazınız. <br/>
+<br/>
  
