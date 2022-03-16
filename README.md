@@ -13,6 +13,7 @@
 1- [Hesap Makinesi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/HesapMakinesi.java) <br/>
 2- [Kullanıcı Girişi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/KullaniciGirisi.java) <br/>
 3- [Sınıf Geçme Durumu](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/SinifGecmeDurumu.java) <br/>
+4- [Hava Durumuna Göre Etkinlik Önerme](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/HavaSicakliginaGoreEtkinlikOnerme.java) <br/>
 
 ## İsterler
 ### Temel Kavramlar
@@ -61,3 +62,12 @@ Not : If ve Else kullanılmayacak... <br/>
 [Sınıf Geçme Durumu](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/SinifGecmeDurumu.java) <br/>
 • Kullanıcıdan Matematik, Fizik, Türkçe, Kimya, Müzik notlarını alın. <br/>
 • Eğer girilen ders notları 0 veya 100 arasında değil ise ortalamaya katılmasın. Geçme notu: 55 <br/>
+ <br/>
+[Hava Durumuna Göre Etkinlik Önerme](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/HavaSicakliginaGoreEtkinlikOnerme.java) <br/>
+• Sıcaklık 5'dan küçük ise "Kayak" yapmayı öner. <br/>
+• Sıcaklık 5 ve 15 arasında ise "Sinema" etkinliğini öner. <br/>
+• Sıcaklık 15 ve 25 arasında ise "Piknik" etkinliğini öner. <br/>
+• Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini öner. <br/>
+ <br/>
+ 
+ 
