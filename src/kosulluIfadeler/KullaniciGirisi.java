@@ -29,7 +29,7 @@ public class KullaniciGirisi {
 					String newPassword = scan.nextLine();
 
 					if (newPassword.equals("12345"))
-						System.out.println("Yeni sifreniz eski sifrenizle aynı olamaz.");
+						System.out.println("Yeni sifreniz eski sifrenizle aynı olamaz. Lütfen baska bir sifre girin: ");
 					else
 						System.out.println("Sifreniz olusturuldu.");
 
