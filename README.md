@@ -11,7 +11,7 @@
 7- [Manav Kasa Hesaplayan Program](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/ManavKasaHesaplama.java) <br/>
 ### Koşullu İfadeler
 1- [Hesap Makinesi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/HesapMakinesi.java) <br/>
-2- [Kullanızı Girişi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/KullaniciGirisi.java) <br/>
+2- [Kullanıcı Girişi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/KullaniciGirisi.java) <br/>
 
 ## İsterler
 ### Temel Kavramlar
@@ -54,5 +54,5 @@ Not : If ve Else kullanılmayacak... <br/>
 [Hesap Makinesi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/HesapMakinesi.java) <br/>
 • Switch-case kullanarak hesap makinesi yapınız. <br/>
 <br/>
-[Kullanızı Girişi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/KullaniciGirisi.java) <br/>
+[Kullanıcı Girişi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/KullaniciGirisi.java) <br/>
 • Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayacağını sorun, eğer kullanıcı sıfırlamak isterse yeni girdiği şifrenin hatalı girdiği ve unuttuğu şifre ile aynı olmaması gerektiğini kontrol edip , şifreler aynı ise ekrana "Şifre oluşturulamadı, lütfen başka şifre giriniz." sorun yoksa "Şifre oluşturuldu" yazan programı yazınız
