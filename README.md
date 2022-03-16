@@ -12,6 +12,7 @@
 ### Koşullu İfadeler
 1- [Hesap Makinesi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/HesapMakinesi.java) <br/>
 2- [Kullanıcı Girişi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/KullaniciGirisi.java) <br/>
+3- [Sınıf Geçme Durumu](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/SinifGecmeDurumu.java) <br/>
 
 ## İsterler
 ### Temel Kavramlar
@@ -55,4 +56,8 @@ Not : If ve Else kullanılmayacak... <br/>
 • Switch-case kullanarak hesap makinesi yapınız. <br/>
 <br/>
 [Kullanıcı Girişi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/KullaniciGirisi.java) <br/>
-• Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayacağını sorun, eğer kullanıcı sıfırlamak isterse yeni girdiği şifrenin hatalı girdiği ve unuttuğu şifre ile aynı olmaması gerektiğini kontrol edip , şifreler aynı ise ekrana "Şifre oluşturulamadı, lütfen başka şifre giriniz." sorun yoksa "Şifre oluşturuldu" yazan programı yazınız
+• Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayacağını sorun, eğer kullanıcı sıfırlamak isterse yeni girdiği şifrenin hatalı girdiği ve unuttuğu şifre ile aynı olmaması gerektiğini kontrol edip , şifreler aynı ise ekrana "Şifre oluşturulamadı, lütfen başka şifre giriniz." sorun yoksa "Şifre oluşturuldu" yazan programı yazınız. <br/>
+ <br/>
+[Sınıf Geçme Durumu](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/SinifGecmeDurumu.java) <br/>
+• Kullanıcıdan Matematik, Fizik, Türkçe, Kimya, Müzik notlarını alın. <br/>
+• Eğer girilen ders notları 0 veya 100 arasında değil ise ortalamaya katılmasın. Geçme notu: 55 <br/>
