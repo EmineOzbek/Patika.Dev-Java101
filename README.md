@@ -17,6 +17,7 @@
 5-  [Sayıları Büyükten Küçüğe Sıralama]( https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/SayilariSiralama.java) <br/>
 6- [Burç Bulma Programı](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/BurcBulma.java) <br/>
 7- [Uçak Bileti Fiyatı Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/UcakBiletiFiyatiHesaplama.java) <br/>
+8- [Çin Zodyağı Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/CinZodyagıHesaplama.java) <br/>
 
 
 ## İsterler
@@ -87,3 +88,19 @@ Kişi 12-24 yaşları arasında ise bilet fiyatı üzerinden %10 indirim uygulan
 Kişi 65 yaşından büyük ise bilet fiyatı üzerinden %30 indirim uygulanır. <br/>
 Kişi "Yolculuk Tipini" gidiş dönüş seçmiş ise bilet fiyatı üzerinden %20 indirim uygulanır. <br/>
 
+[Çin Zodyağı Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/CinZodyagıHesaplama.java) <br/>
+• Java ile kullanıcıdan doğum tarihini alıp Çin Zodyağı değerini hesaplayan program yazınız. <br/>
+• Çin zodyağı hesaplanırken kişinin doğum yılının 12 ile bölümünde kalana göre bulunur. <br/>
+> Doğum Tarihi %12 = 0 ➜ Maymun <br/>
+  Doğum Tarihi %12 = 1 ➜ Horoz <br/>
+  Doğum Tarihi %12 = 2 ➜ Köpek <br/>
+  Doğum Tarihi %12 = 3 ➜ Domuz <br/>
+  Doğum Tarihi %12 = 4 ➜ Fare <br/>
+  Doğum Tarihi %12 = 5 ➜ Öküz <br/>
+  Doğum Tarihi %12 = 6 ➜ Kaplan <br/>
+  Doğum Tarihi %12 = 7 ➜ Tavşan <br/>
+  Doğum Tarihi %12 = 8 ➜ Ejderha <br/>
+  Doğum Tarihi %12 = 9 ➜ Yılan <br/>
+  Doğum Tarihi %12 = 10 ➜ At <br/> 
+  Doğum Tarihi %12 = 11 ➜ Koyun <br/>
+ <br/>
