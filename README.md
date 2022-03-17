@@ -16,6 +16,7 @@
 4- [Hava Durumuna Göre Etkinlik Önerme](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/HavaSicakliginaGoreEtkinlikOnerme.java) <br/>
 5-  [Sayıları Büyükten Küçüğe Sıralama]( https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/SayilariSiralama.java) <br/>
 6- [Burç Bulma Programı](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/BurcBulma.java) <br/>
+7- [Uçak Bileti Fiyatı Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/UcakBiletiFiyatiHesaplama.java) <br/>
 
 
 ## İsterler
@@ -78,3 +79,11 @@ Not : If ve Else kullanılmayacak... <br/>
 [Burç Bulma Programı](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/BurcBulma.java) <br/>
 • Kullanıcının girdiği ay ve gün bilgisine göre burcunu ekrana yazdıran program. <br/>
  <br/>
+[Uçak Bileti Fiyatı Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/UcakBiletiFiyatiHesaplama.java) <br/>
+• Java ile mesafeye ve şartlara göre uçak bileti fiyatı hesaplayan programı yapın. Kullanıcıdan Mesafe (KM), yaşı ve yolculuk tipi (Tek Yön, Gidiş-Dönüş) bilgilerini alın. Mesafe başına ücret 0,10 TL / km olarak alın. İlk olarak uçuşun toplam fiyatını hesaplayın ve sonrasında ki koşullara göre müşteriye aşağıdaki indirimleri uygulayın ;
+> Kullanıcıdan alınan değerler geçerli (mesafe ve yaş değerleri pozitif sayı, yolculuk tipi ise 1 veya 2) olmalıdır. Aksi takdirde kullanıcıya "Hatalı Veri Girdiniz !" şeklinde bir uyarı verilmelidir. <br/>
+Kişi 12 yaşından küçükse bilet fiyatı üzerinden %50 indirim uygulanır. <br/>
+Kişi 12-24 yaşları arasında ise bilet fiyatı üzerinden %10 indirim uygulanır. <br/>
+Kişi 65 yaşından büyük ise bilet fiyatı üzerinden %30 indirim uygulanır. <br/>
+Kişi "Yolculuk Tipini" gidiş dönüş seçmiş ise bilet fiyatı üzerinden %20 indirim uygulanır. <br/>
+
