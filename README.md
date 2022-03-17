@@ -87,7 +87,7 @@ Kişi 12 yaşından küçükse bilet fiyatı üzerinden %50 indirim uygulanır. 
 Kişi 12-24 yaşları arasında ise bilet fiyatı üzerinden %10 indirim uygulanır. <br/>
 Kişi 65 yaşından büyük ise bilet fiyatı üzerinden %30 indirim uygulanır. <br/>
 Kişi "Yolculuk Tipini" gidiş dönüş seçmiş ise bilet fiyatı üzerinden %20 indirim uygulanır. <br/>
- <br/>
+
 [Çin Zodyağı Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/CinZodyagıHesaplama.java) <br/>
 • Java ile kullanıcıdan doğum tarihini alıp Çin Zodyağı değerini hesaplayan program yazınız. <br/>
 • Çin zodyağı hesaplanırken kişinin doğum yılının 12 ile bölümünde kalana göre bulunur. <br/>
