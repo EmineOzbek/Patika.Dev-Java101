@@ -15,6 +15,7 @@
 3- [Sınıf Geçme Durumu](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/SinifGecmeDurumu.java) <br/>
 4- [Hava Durumuna Göre Etkinlik Önerme](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/HavaSicakliginaGoreEtkinlikOnerme.java) <br/>
 5-  [Sayıları Büyükten Küçüğe Sıralama]( https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/SayilariSiralama.java) <br/>
+6- [Burç Bulma Programı](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/BurcBulma.java) <br/>
 
 
 ## İsterler
@@ -71,7 +72,9 @@ Not : If ve Else kullanılmayacak... <br/>
 • Sıcaklık 15 ve 25 arasında ise "Piknik" etkinliğini öner. <br/>
 • Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini öner. <br/>
  <br/>
- [Sayıları Büyükten Küçüğe Sıralama]( https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/SayilariSiralama.java) <br/>
+ [Sayıları Büyükten Küçüğe Sıralama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/SayilariSiralama.java) <br/>
 • Girilen 3 sayıyı "küçükten büyüğe" sıralayan programı yazınız. <br/>
 <br/>
- 
+[Burç Bulma Programı](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/BurcBulma.java) <br/>
+• Kullanıcının girdiği ay ve gün bilgisine göre burcunu ekrana yazdıran program. <br/>
+ <br/>
