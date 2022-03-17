@@ -2,7 +2,7 @@ package kosulluIfadeler;
 
 import java.util.Scanner;
 
-public class ArtıkYılHesaplama {
+public class ArtikYilHesaplama {
 
 	public static void main(String[] args) {
 
