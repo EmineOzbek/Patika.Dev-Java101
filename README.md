@@ -22,6 +22,8 @@
 ### Döngüler
 1- [3'e ve 4'e Tam Bölünen Sayıların Ortalamasını Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/UcVeDordeTamBolunenSayilarinOrtalamasi.java) <br/>
 2- [Çift ve 4'ün Katı Olan Sayıların Toplamı](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/CiftVeDordunKatiOlanSayilarinToplami.java) <br/>
+3-  [4 Ve 5'in Kuvvetleri](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/DortVeBesinKuvvetleri.java) <br/>
+
 
 ## İsterler
 ### Temel Kavramlar
@@ -120,3 +122,7 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
  <br/>
  [Çift ve 4'ün Katı Olan Sayıların Toplamı](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/CiftVeDordunKatiOlanSayilarinToplami.java) <br/>
 • Döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan programı yazıyoruz. <br/>
+ <br/>
+ [4 Ve 5'in Kuvvetleri](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/DortVeBesinKuvvetleri.java) <br/>
+• Döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran programı yazıyoruz. <br/>
+ <br/>
