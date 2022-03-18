@@ -19,7 +19,8 @@
 7- [Uçak Bileti Fiyatı Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/UcakBiletiFiyatiHesaplama.java) <br/>
 8- [Çin Zodyağı Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/CinZodyagıHesaplama.java) <br/>
 9- [Artık Yıl Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/ArtikYilHesaplama.java) <br/>
-
+### Döngüler
+1- [3'e ve 4'e Tam Bölünen Sayıların Ortalamasını Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/UcVeDordeTamBolunenSayilarinOrtalamasi.java) <br/>
 
 ## İsterler
 ### Temel Kavramlar
@@ -112,3 +113,6 @@ Kişi "Yolculuk Tipini" gidiş dönüş seçmiş ise bilet fiyatı üzerinden %2
 100'ün katı olan yıllardan sadece 400'e kalansız olarak bölünebilenler artık yıldır: örneğin 1200, 1600, 2000 yılları artık yıldır ancak 1700, 1800 ve 1900 artık yıl değildir. <br/>
 Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni, bir astronomik yılın 365,25 gün değil, yaklaşık olarak 365,242 gün olmasından kaynaklanan hatayı gidermektir. <br/>
 
+### Döngüler
+ [3'e ve 4'e Tam Bölünen Sayıların Ortalamasını Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/UcVeDordeTamBolunenSayilarinOrtalamasi.java) <br/>
+• Döngüler ile 0'dan girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan programı yazınız. <br/>
