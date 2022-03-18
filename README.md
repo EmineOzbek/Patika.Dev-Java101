@@ -18,6 +18,7 @@
 6- [Burç Bulma Programı](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/BurcBulma.java) <br/>
 7- [Uçak Bileti Fiyatı Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/UcakBiletiFiyatiHesaplama.java) <br/>
 8- [Çin Zodyağı Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/CinZodyagıHesaplama.java) <br/>
+9- [Artık Yıl Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/ArtikYilHesaplama.java) <br/>
 
 
 ## İsterler
@@ -103,4 +104,11 @@ Kişi "Yolculuk Tipini" gidiş dönüş seçmiş ise bilet fiyatı üzerinden %2
   Doğum Tarihi %12 = 9 ➜ Yılan <br/>
   Doğum Tarihi %12 = 10 ➜ At <br/> 
   Doğum Tarihi %12 = 11 ➜ Koyun <br/>
- <br/>
+
+ [Artık Yıl Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/ArtikYilHesaplama.java) <br/>
+• Java ile kullanıcının girdiği yılın artık olup olmadığını bulan programı yazınız. <br/>
+• Artık Yıl Nasıl Hesaplanır?  <br/>
+> Genel bir kural olarak, artık yıllar 4 rakamının katı olan yıllardır: 1988, 1992, 1996, 2000, 2004, 2008, 2012, 2016, 2020, 2024 gibi. <br/>
+100'ün katı olan yıllardan sadece 400'e kalansız olarak bölünebilenler artık yıldır: örneğin 1200, 1600, 2000 yılları artık yıldır ancak 1700, 1800 ve 1900 artık yıl değildir. <br/>
+Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni, bir astronomik yılın 365,25 gün değil, yaklaşık olarak 365,242 gün olmasından kaynaklanan hatayı gidermektir. <br/>
+
