@@ -23,6 +23,7 @@
 1- [3'e ve 4'e Tam Bölünen Sayıların Ortalamasını Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/UcVeDordeTamBolunenSayilarinOrtalamasi.java) <br/>
 2- [Çift ve 4'ün Katı Olan Sayıların Toplamı](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/CiftVeDordunKatiOlanSayilarinToplami.java) <br/>
 3-  [4 Ve 5'in Kuvvetleri](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/DortVeBesinKuvvetleri.java) <br/>
+4-  [Kombinasyon Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/KombinasyonHesaplama.java) <br/>
 
 
 ## İsterler
@@ -125,4 +126,7 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
  <br/>
  [4 Ve 5'in Kuvvetleri](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/DortVeBesinKuvvetleri.java) <br/>
 • Döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran programı yazıyoruz. <br/>
+ <br/>
+ [Kombinasyon Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/KombinasyonHesaplama.java) <br/>
+• Java ile kombinasyon hesaplayan program yazınız. N’in r’li kombinasyonu C(n,r) şeklinde gösterin. <br/>
  <br/>
