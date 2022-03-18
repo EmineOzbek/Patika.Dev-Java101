@@ -21,6 +21,7 @@
 9- [Artık Yıl Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/kosulluIfadeler/ArtikYilHesaplama.java) <br/>
 ### Döngüler
 1- [3'e ve 4'e Tam Bölünen Sayıların Ortalamasını Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/UcVeDordeTamBolunenSayilarinOrtalamasi.java) <br/>
+2- [Çift ve 4'ün Katı Olan Sayıların Toplamı](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/CiftVeDordunKatiOlanSayilarinToplami.java) <br/>
 
 ## İsterler
 ### Temel Kavramlar
@@ -116,3 +117,6 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
 ### Döngüler
  [3'e ve 4'e Tam Bölünen Sayıların Ortalamasını Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/UcVeDordeTamBolunenSayilarinOrtalamasi.java) <br/>
 • Döngüler ile 0'dan girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan programı yazınız. <br/>
+ <br/>
+ [Çift ve 4'ün Katı Olan Sayıların Toplamı](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/CiftVeDordunKatiOlanSayilarinToplami.java) <br/>
+• Döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan programı yazıyoruz. <br/>
