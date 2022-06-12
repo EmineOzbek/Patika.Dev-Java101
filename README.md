@@ -24,6 +24,7 @@
 2- [Çift ve 4'ün Katı Olan Sayıların Toplamı](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/CiftVeDordunKatiOlanSayilarinToplami.java) <br/>
 3-  [4 Ve 5'in Kuvvetleri](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/DortVeBesinKuvvetleri.java) <br/>
 4-  [Kombinasyon Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/KombinasyonHesaplama.java) <br/>
+5-  [Üslü Sayı Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/UsluSayiHesaplama.java) <br/>
 
 
 ## İsterler
