@@ -24,6 +24,7 @@
 2- [Çift ve 4'ün Katı Olan Sayıların Toplamı](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/CiftVeDordunKatiOlanSayilarinToplami.java) <br/>
 3-  [4 Ve 5'in Kuvvetleri](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/DortVeBesinKuvvetleri.java) <br/>
 4-  [Kombinasyon Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/KombinasyonHesaplama.java) <br/>
+5-  [Üslü Sayı Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/UsluSayiHesaplama.java) <br/>
 
 
 ## İsterler
@@ -129,4 +130,7 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
  <br/>
  [Kombinasyon Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/KombinasyonHesaplama.java) <br/>
 • Java ile kombinasyon hesaplayan program yazınız. N’in r’li kombinasyonu C(n,r) şeklinde gösterin. <br/>
+ <br/>
+ [Üslü Sayı Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/UsluSayiHesaplama.java) <br/>
+• Java ile kullanıcının girdiği değerler ile üslü sayı hesaplayan programı "For Döngüsü" kullanarak yapınız. <br/>
  <br/>
