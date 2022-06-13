@@ -134,3 +134,6 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
  [Üslü Sayı Hesaplama](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/UsluSayiHesaplama.java) <br/>
 • Java ile kullanıcının girdiği değerler ile üslü sayı hesaplayan programı "For Döngüsü" kullanarak yapınız. <br/>
  <br/>
+[Basamak Sayıları Toplamı](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/BasamakSayilariToplami.java) <br/>
+• Bir sayının basamak sayılarının toplamını hesaplayan program yazınız. <br/>
+ <br/>
