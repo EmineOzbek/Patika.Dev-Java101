@@ -28,6 +28,8 @@
 6- [Basamak Sayıları Toplamı](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/BasamakSayilariToplami.java) <br/>
 7- [Harmonik Sayıları Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/HarmonikSayilariBulma.java) <br/>
 8- [Yıldızlarla Elmas Yapma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/YildizlarlaElmasYapma.java) <br/>
+9- [ATM Projesi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/ATMProjesi.java) <br/>
+
 
 ## İsterler
 ### Temel Kavramlar
