@@ -151,3 +151,5 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
 • Java döngüler ile kullanıcının banka hesabını yönetebildiği bir ATM projesi yapıyoruz. <br/>
  <br/>
 [Ebob Ekok Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/EbobEkokBulma.java) <br/>
+• Java ile iki sayının EBOB ve EKOK değerlerini "While Döngüsü" kullanarak yazınız. <br/>
+ <br/>
