@@ -153,3 +153,4 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
 [Ebob Ekok Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/EbobEkokBulma.java) <br/>
 • Java ile iki sayının EBOB ve EKOK değerlerini "While Döngüsü" kullanarak yazınız. <br/>
  <br/>
+[Sayıların Max Ve Min Değerlerini Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/SayilarinMaxVeMinDegerleriniBulma.java) <br/>
