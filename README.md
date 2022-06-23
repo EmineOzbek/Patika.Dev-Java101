@@ -29,7 +29,7 @@
 7- [Harmonik Sayıları Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/HarmonikSayilariBulma.java) <br/>
 8- [Yıldızlarla Elmas Yapma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/YildizlarlaElmasYapma.java) <br/>
 9- [ATM Projesi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/ATMProjesi.java) <br/>
-
+10- [Ebob Ekok Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/EbobEkokBulma.java) <br/>
 
 ## İsterler
 ### Temel Kavramlar
@@ -149,4 +149,7 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
   <br/>
 [ATM Projesi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/ATMProjesi.java) <br/>
 • Java döngüler ile kullanıcının banka hesabını yönetebildiği bir ATM projesi yapıyoruz. <br/>
+ <br/>
+[Ebob Ekok Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/EbobEkokBulma.java) <br/>
+• Java ile iki sayının EBOB ve EKOK değerlerini "While Döngüsü" kullanarak yazınız. <br/>
  <br/>
