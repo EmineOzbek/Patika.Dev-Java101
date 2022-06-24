@@ -158,4 +158,5 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
 • Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan ve bu sayıları ekrana yazan programı yazın. <br/>
 <br/>
 [Mükemmel Sayıyı Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/MukemmelSayiBulma.java) <br/>
-• 
+• Klavyeden girilen bir sayının mükemmel sayı olup/olmadığını bulan ve sayı mükemmel sayı ise ekrana “mükemmel sayıdır.” değilse “mükemmel sayı değildir.” ifadelerini ekrana yazan programı Java dilinde yazınız. <br/>
+ <br/>
