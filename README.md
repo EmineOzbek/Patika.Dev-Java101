@@ -30,6 +30,7 @@
 8- [Yıldızlarla Elmas Yapma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/YildizlarlaElmasYapma.java) <br/>
 9- [ATM Projesi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/ATMProjesi.java) <br/>
 10- [Ebob Ekok Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/EbobEkokBulma.java) <br/>
+11- [Sayıların Max Ve Min Değerlerini Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/SayilarinMaxVeMinDegerleriniBulma.java) <br/>
 
 ## İsterler
 ### Temel Kavramlar
@@ -153,3 +154,6 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
 [Ebob Ekok Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/EbobEkokBulma.java) <br/>
 • Java ile iki sayının EBOB ve EKOK değerlerini "While Döngüsü" kullanarak yazınız. <br/>
  <br/>
+[Sayıların Max Ve Min Değerlerini Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/SayilarinMaxVeMinDegerleriniBulma.java) <br/>
+• Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan ve bu sayıları ekrana yazan programı yazın. <br/>
+<br/>
