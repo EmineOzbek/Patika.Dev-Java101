@@ -157,3 +157,5 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
 [Sayıların Max Ve Min Değerlerini Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/SayilarinMaxVeMinDegerleriniBulma.java) <br/>
 • Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan ve bu sayıları ekrana yazan programı yazın. <br/>
 <br/>
+[Mükemmel Sayıyı Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/MukemmelSayiBulma.java) <br/>
+• 
