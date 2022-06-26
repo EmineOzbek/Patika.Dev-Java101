@@ -32,6 +32,7 @@
 10- [Ebob Ekok Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/EbobEkokBulma.java) <br/>
 11- [Sayıların Max Ve Min Değerlerini Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/SayilarinMaxVeMinDegerleriniBulma.java) <br/>
 12- [Mükemmel Sayıyı Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/MukemmelSayiBulma.java) <br/>
+13- [Ters Üçgen Yapma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/TersUcgenYapma.java) <br/>
 
 ## İsterler
 ### Temel Kavramlar
@@ -162,3 +163,5 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
 • Klavyeden girilen bir sayının mükemmel sayı olup/olmadığını bulan ve sayı mükemmel sayı ise ekrana “mükemmel sayıdır.” değilse “mükemmel sayı değildir.” ifadelerini ekrana yazan programı Java dilinde yazınız. <br/>
  <br/>
 [Ters Üçgen Yapma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/TersUcgenYapma.java)  <br/>
+• Java ile basamak sayısının kullanıcıdan alınan ve döngüler kullanılarak, yıldızlar(*) ile ekrana ters üçgen çizen programı yazın. <br/>
+ <br/>
