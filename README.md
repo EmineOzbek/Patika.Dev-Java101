@@ -31,6 +31,7 @@
 9- [ATM Projesi](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/ATMProjesi.java) <br/>
 10- [Ebob Ekok Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/EbobEkokBulma.java) <br/>
 11- [Sayıların Max Ve Min Değerlerini Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/SayilarinMaxVeMinDegerleriniBulma.java) <br/>
+12- [Mükemmel Sayıyı Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/MukemmelSayiBulma.java) <br/>
 
 ## İsterler
 ### Temel Kavramlar
@@ -157,3 +158,6 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
 [Sayıların Max Ve Min Değerlerini Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/SayilarinMaxVeMinDegerleriniBulma.java) <br/>
 • Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan ve bu sayıları ekrana yazan programı yazın. <br/>
 <br/>
+[Mükemmel Sayıyı Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/MukemmelSayiBulma.java) <br/>
+• Klavyeden girilen bir sayının mükemmel sayı olup/olmadığını bulan ve sayı mükemmel sayı ise ekrana “mükemmel sayıdır.” değilse “mükemmel sayı değildir.” ifadelerini ekrana yazan programı Java dilinde yazınız. <br/>
+ <br/>
