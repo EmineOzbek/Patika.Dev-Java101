@@ -166,4 +166,5 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
 • Java ile basamak sayısının kullanıcıdan alınan ve döngüler kullanılarak, yıldızlar(*) ile ekrana ters üçgen çizen programı yazın. <br/>
  <br/>
 [Asal Sayı Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/AsalSayiBulma.java)  <br/>
- • 
+ • Java ile 1 - 100 arasındaki asal sayıları ekrana yazdıran programı yazınız. <br/>
+ <br/>
