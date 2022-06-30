@@ -33,6 +33,7 @@
 11- [Sayıların Max Ve Min Değerlerini Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/SayilarinMaxVeMinDegerleriniBulma.java) <br/>
 12- [Mükemmel Sayıyı Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/MukemmelSayiBulma.java) <br/>
 13- [Ters Üçgen Yapma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/TersUcgenYapma.java) <br/>
+14- [Asal Sayı Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/AsalSayiBulma.java) <br/>
 
 ## İsterler
 ### Temel Kavramlar
@@ -165,6 +166,6 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
 [Ters Üçgen Yapma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/TersUcgenYapma.java)  <br/>
 • Java ile basamak sayısının kullanıcıdan alınan ve döngüler kullanılarak, yıldızlar(*) ile ekrana ters üçgen çizen programı yazın. <br/>
  <br/>
-[Asal Sayı Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/AsalSayiBulma.java)  <br/>
+[Asal Sayı Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/AsalSayiBulma.java) <br/>
  • Java ile 1 - 100 arasındaki asal sayıları ekrana yazdıran programı yazınız. <br/>
  <br/>
