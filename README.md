@@ -169,3 +169,6 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
 [Asal Sayı Bulma](https://github.com/EmineOzbek/Patika.Dev-Java101/blob/master/src/donguler/AsalSayiBulma.java) <br/>
  • Java ile 1 - 100 arasındaki asal sayıları ekrana yazdıran programı yazınız. <br/>
  <br/>
+[Fibonacci Serisi]() <br/>
+• Java döngüler ile fibonacci serisi bulan program yazıyoruz. Fibonacci serisinin eleman sayısını kullanıcıdan alın. <br/>
+
